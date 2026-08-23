@@ -1,7 +1,12 @@
-        # Hi, I'm Nouran Muhammad
+# Hi, I'm Nouran Muhammad
 
-        [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
+<div align="center">
+Hi, I'm Nouran Muhammad 👋
 
+Show Image
+
+</div>
 ---
 
 ## 👩‍💻 About Me
