@@ -1,6 +1,6 @@
-# Hi, I'm Nouran Muhammad
+        # Hi, I'm Nouran Muhammad
 
-[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
+        [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
 
 ---
 
@@ -19,7 +19,6 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nouran-mohammed-)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nouran.muhammad110@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
 
 ---
 
