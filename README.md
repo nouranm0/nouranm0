@@ -16,13 +16,12 @@
 - Strong interest in problem solving, algorithms, and software engineering
 - Always learning and improving my software development skills
 
----
 
 ## 🌐 Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nouran-mohammed-)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nouran.muhammad110@gmail.com)
----
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouran.muhammad110@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
+ 
 
 ## 💻 Tech Stack
 
@@ -33,7 +32,6 @@
 **AI / ML:** Python • Flask • Machine Learning • Deep Learning
 **Tools:** Git • GitHub • Docker • Visual Studio
 
----
 
 ## 🧠 Software Engineering
 
@@ -46,7 +44,6 @@
 - Clean Code & Software Design
 - Git & Version Control
 
----
 
 ## 🤖 AI & Machine Learning
 
@@ -58,7 +55,6 @@
 - Python & Flask
 - AI-powered applications
 
----
 
 
 ## 📌 Featured Projects
@@ -83,7 +79,6 @@ A full-stack vintage clothing e-commerce platform built with .NET technologies.
 ### More Projects
 Check out my repositories to explore more of my work in .NET backend development, web applications, AI, machine learning, database systems, and software engineering.
 
----
 
 ## 📚 Currently Learning
 
@@ -94,6 +89,5 @@ Check out my repositories to explore more of my work in .NET backend development
 - Advanced SQL & Database Optimization
 - Machine Learning
 
----
 
 > **Always learning, always building, and always looking for the next challenge. 🚀**
