@@ -4,6 +4,7 @@
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
 
+</div>
 
 
 ## 👩‍💻 About Me
@@ -21,6 +22,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
 <br>
 or send me a email on nouran.muhammad110@gmail.com
+</div>
 
 ## 💻 Tech Stack
 
@@ -57,5 +59,4 @@ A full-stack vintage clothing e-commerce platform built with .NET technologies.
 
 
 > **Always learning, always building, and always looking for the next challenge. 🚀**
-</div>
 
