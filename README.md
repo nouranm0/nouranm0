@@ -22,7 +22,6 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nouran-mohammed-)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nouran.muhammad110@gmail.com)
-
 ---
 
 ## 💻 Tech Stack
