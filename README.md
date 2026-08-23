@@ -20,6 +20,7 @@
 ## 🌐 Connect with Me
  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nouran-mohammed-)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
+<br>
 or send me a email on nouran.muhammad110@gmail.com
 
 ## 💻 Tech Stack
