@@ -5,16 +5,16 @@
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
 
 </div>
----
+
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Sc. Computer Science & Artificial Intelligence — Software Engineering
-- 💻 Specialized in **.NET Backend Development**
-- 🚀 Experienced in building web applications using **C#, ASP.NET Core, and SQL Server**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Deep Learning**
-- 🧠 Strong interest in problem solving, algorithms, and software engineering
-- 🌱 Always learning and improving my software development skills
+- B.Sc. Computer Science & Artificial Intelligence — Software Engineering
+- Specialized in **.NET Backend Development**
+- Experienced in building web applications using **C#, ASP.NET Core, and SQL Server**
+- Interested in **Artificial Intelligence, Machine Learning, and Deep Learning**
+- Strong interest in problem solving, algorithms, and software engineering
+- Always learning and improving my software development skills
 
 ---
 
@@ -65,13 +65,13 @@
 ## 📌 Featured Projects
 
 
-### ❤️ HeartGuard AI
+### HeartGuard AI
 An AI-powered healthcare project focused on ECG analysis and cardiovascular disease detection.
 `Python` `Deep Learning` `CNN` `Flask`
 
 The project explores using AI to support early detection of cardiovascular conditions through ECG analysis.
 
-### 🛒 Vintage — E-Commerce Platform
+### Vintage — E-Commerce Platform
 A full-stack vintage clothing e-commerce platform built with .NET technologies.
 `C#` `ASP.NET Core` `Entity Framework Core` `LINQ` `SQL Server`
 - User Authentication
@@ -81,7 +81,7 @@ A full-stack vintage clothing e-commerce platform built with .NET technologies.
 - Order Management
 - Database Integration
 
-### 🌐 More Projects
+### More Projects
 Check out my repositories to explore more of my work in .NET backend development, web applications, AI, machine learning, database systems, and software engineering.
 
 ---
