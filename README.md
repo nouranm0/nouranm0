@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](Ywww.linkedin.com/in/nouran-mohammed-)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](Yhttps://www.linkedin.com/in/nouran-mohammed-)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nouran.muhammad110@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
 
