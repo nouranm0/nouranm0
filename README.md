@@ -4,7 +4,6 @@
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
 
-</div>
 
 
 ## 👩‍💻 About Me
@@ -25,36 +24,7 @@ or send me a email on nouran.muhammad110@gmail.com
 
 ## 💻 Tech Stack
 
-[![](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,python,flask,git,github,docker,visualstudio)](https://skillicons.dev)
-
-**Backend:** C# • .NET • ASP.NET Core • Entity Framework Core • LINQ
-**Databases:** SQL Server • MySQL • SQLite
-**AI / ML:** Python • Flask • Machine Learning • Deep Learning
-**Tools:** Git • GitHub • Docker • Visual Studio
-
-
-## 🧠 Software Engineering
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- RESTful APIs
-- Database Design
-- Entity Framework Core
-- Authentication & Authorization
-- Clean Code & Software Design
-- Git & Version Control
-
-
-## 🤖 AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- LLM
-- Convolutional Neural Networks (CNN)
-- ECG Signal Analysis
-- Python & Flask
-- AI-powered applications
-
+[![](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,python,flask,git,github,docker,visualstudio,visualstudiocode)](https://skillicons.dev)
 
 
 ## 📌 Featured Projects
@@ -76,18 +46,16 @@ A full-stack vintage clothing e-commerce platform built with .NET technologies.
 - Order Management
 - Database Integration
 
-### More Projects
-Check out my repositories to explore more of my work in .NET backend development, web applications, AI, machine learning, database systems, and software engineering.
-
+### & more Projects, Check out my repositories to explore
 
 ## 📚 Currently Learning
 
-- Advanced ASP.NET Core
 - Web API Development
 - Clean Architecture
 - Design Patterns
-- Advanced SQL & Database Optimization
 - Machine Learning
 
 
 > **Always learning, always building, and always looking for the next challenge. 🚀**
+</div>
+
