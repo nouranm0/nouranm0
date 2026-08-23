@@ -1,6 +1,6 @@
 # Hi, I'm Nouran Muhammad
 
-[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;.NET+Backend+Developer;AI%2FML+Student)](https://git.io/typing-svg)
 
 ---
 
@@ -11,14 +11,13 @@
 - 🚀 Experienced in building web applications using **C#, ASP.NET Core, and SQL Server**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and Deep Learning**
 - 🧠 Strong interest in problem solving, algorithms, and software engineering
-- 🏆 Participated in **ICPC** and competitive programming activities
 - 🌱 Always learning and improving my software development skills
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](Ywww.linkedin.com/in/nouran-mohammed-)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nouran.muhammad110@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
 
@@ -52,6 +51,7 @@
 
 - Machine Learning
 - Deep Learning
+- LLM
 - Convolutional Neural Networks (CNN)
 - ECG Signal Analysis
 - Python & Flask
@@ -59,16 +59,15 @@
 
 ---
 
-## 🏆 Competitive Programming
-
-- Participating in **ICPC**
-- Practicing Data Structures & Algorithms
-- Problem Solving using **C++ and C#**
-- Focus on algorithms, complexity analysis, and optimization
-
----
 
 ## 📌 Featured Projects
+
+
+### ❤️ HeartGuard AI
+An AI-powered healthcare project focused on ECG analysis and cardiovascular disease detection.
+`Python` `Deep Learning` `CNN` `Flask`
+
+The project explores using AI to support early detection of cardiovascular conditions through ECG analysis.
 
 ### 🛒 Vintage — E-Commerce Platform
 A full-stack vintage clothing e-commerce platform built with .NET technologies.
@@ -79,12 +78,6 @@ A full-stack vintage clothing e-commerce platform built with .NET technologies.
 - Shopping Cart
 - Order Management
 - Database Integration
-
-### ❤️ HeartGuard AI
-An AI-powered healthcare project focused on ECG analysis and cardiovascular disease detection.
-`Python` `Deep Learning` `CNN` `Flask`
-
-The project explores using AI to support early detection of cardiovascular conditions through ECG analysis.
 
 ### 🌐 More Projects
 Check out my repositories to explore more of my work in .NET backend development, web applications, AI, machine learning, database systems, and software engineering.
