@@ -18,28 +18,27 @@
 
 
 ## 🌐 Connect with Me
-<div align="center">
  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nouran-mohammed-)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
 <br>
 or send me a email on nouran.muhammad110@gmail.com
-</div>
+
 
 ## 💻 Tech Stack
-<div align="center">
+
 [![](https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,python,flask,git,github,docker,visualstudio,visualstudiocode)](https://skillicons.dev)
-</div>
+
 
 ## 📌 Featured Projects
 
 
-## HeartGuard AI
+### HeartGuard AI
 An AI-powered healthcare project focused on ECG analysis and cardiovascular disease detection.
 `Python` `Deep Learning` `CNN` `Flask`
 
 The project explores using AI to support early detection of cardiovascular conditions through ECG analysis.
 
-## Vintage — E-Commerce Platform
+### Vintage — E-Commerce Platform
 A full-stack vintage clothing e-commerce platform built with .NET technologies.
 `C#` `ASP.NET Core` `Entity Framework Core` `LINQ` `SQL Server`
 - User Authentication
@@ -49,7 +48,7 @@ A full-stack vintage clothing e-commerce platform built with .NET technologies.
 - Order Management
 - Database Integration
 
-## & more Projects, Check out my repositories to explore
+### & more Projects, Check out my repositories to explore
 
 ## 📚 Currently Learning
 
