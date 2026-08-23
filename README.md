@@ -19,8 +19,8 @@
 
 ## 🌐 Connect with Me
  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nouran-mohammed-)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouran.muhammad110@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nouranm0)
+or send me a email on nouran.muhammad110@gmail.com
 
 ## 💻 Tech Stack
 
