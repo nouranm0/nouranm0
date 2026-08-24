@@ -32,7 +32,7 @@ or send me a email on nouran.muhammad110@gmail.com
 ## 📌 Featured Projects
 
 
-### HeartGuard AI
+### HeartGuard AI (Graduation Project)
 An AI-powered healthcare project focused on ECG analysis and cardiovascular disease detection.
 `Python` `Deep Learning` `CNN` `Flask`
 
